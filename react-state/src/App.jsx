@@ -13,8 +13,8 @@ function App() {
       <Message />
       <SortableContactList />
       {/* <ContactList /> */}
-      {/* <Counter message="Hello World" />
-      <LikeButton /> */}
+      <Counter message="Hello World" />
+      <LikeButton />
     </div>
   );
 }
